@@ -1,24 +1,25 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1515px;
+  min-height: 1606px;
 }
 
 .u-section-1 .u-text-1 {
-  margin: 60px auto 0;
+  margin: 34px 46px 0;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 20px auto 0;
+  margin: 19px 0 0;
 }
 
 .u-section-1 .u-text-3 {
-  margin: 4px auto 0 0;
+  font-size: 1.125rem;
+  margin: 4px 0 0;
 }
 
 .u-section-1 .u-slider-1 {
   min-height: 699px;
   margin-top: 4px;
-  margin-bottom: 0;
-  height: auto;
+  margin-bottom: 60px;
+  margin-right: 0;
 }
 
 .u-section-1 .u-carousel-indicators-1 {
@@ -32,7 +33,6 @@
 
 .u-section-1 .u-custom-html-1 {
   min-height: 653px;
-  height: auto;
   width: 1040px;
   margin: -15px 0 0;
 }
@@ -43,7 +43,6 @@
 
 .u-section-1 .u-custom-html-2 {
   min-height: 639px;
-  height: auto;
   width: 1040px;
   margin: 0;
 }
@@ -54,7 +53,6 @@
 
 .u-section-1 .u-custom-html-3 {
   min-height: 639px;
-  height: auto;
   width: 1040px;
   margin: 0;
 }
@@ -70,15 +68,28 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-slider-1 {
+    height: auto;
+    margin-right: initial;
+  }
+
   .u-section-1 .u-custom-html-1 {
+    height: auto;
     width: 840px;
   }
 
   .u-section-1 .u-custom-html-2 {
+    height: auto;
     width: 840px;
   }
 
   .u-section-1 .u-custom-html-3 {
+    height: auto;
     width: 840px;
   }
 }
