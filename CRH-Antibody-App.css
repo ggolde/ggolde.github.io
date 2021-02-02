@@ -14,7 +14,6 @@
   min-height: 1207px;
   margin-top: 30px;
   margin-bottom: 60px;
-  height: auto;
 }
 
 @media (max-width: 1199px) {
@@ -26,6 +25,10 @@
   .u-section-1 .u-text-2 {
     margin-left: calc(((100% - 940px) / 2));
     margin-right: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
   }
 }
 
