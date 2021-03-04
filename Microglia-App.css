@@ -11,8 +11,12 @@
 }
 
 .u-section-1 .u-text-3 {
-  font-size: 1.125rem;
+  font-size: 1.875rem;
   margin: 11px 80px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 0;
 }
 
 .u-section-1 .u-custom-html-1 {
